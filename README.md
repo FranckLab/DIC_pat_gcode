@@ -27,12 +27,5 @@ Full text can be requested at:
 ## Contact and support
 Email: Jin Yang, jyang526@wisc.edu; -or- Prof. Christian Franck, cfranck@wisc.edu
  
-##
-
- 
-``<p align="center">
-  <img width="538" height="301" src="https://github.com/FranckLab/ALDVC/blob/master/aldvc_logo.png">
-</p>
-``
 
 
