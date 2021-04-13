@@ -26,7 +26,7 @@ Full text can be requested at:
 
 ## Contact and support
 Email: Dr. Jin Yang, jyang526@wisc.edu; Jialiang Tao, jtao22@wisc.edu; Prof. Christian Franck, cfranck@wisc.edu
-
+Welcome to give us ratings and make comments at MATLAB File Exchange community:
 [![View DIC_pat_gcode: Generate G-code files to control a 3D printer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/90431-dic_pat_gcode-generate-g-code-files-to-control-a-3d-printer)
 
 
