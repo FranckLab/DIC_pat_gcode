@@ -25,7 +25,7 @@ Full text can be requested at:
 * ResearchGate: https://www.researchgate.net/publication/350558776_Smart_Digital_Image_Correlation_Patterns_via_3D_Printing
 
 ## Contact and support
-Email: Jin Yang, jyang526@wisc.edu; -or- Prof. Christian Franck, cfranck@wisc.edu
+Email: Dr. Jin Yang, jyang526@wisc.edu; Jialiang Tao, jtao22@wisc.edu; Prof. Christian Franck, cfranck@wisc.edu
  
 
 
