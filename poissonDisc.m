@@ -1,6 +1,6 @@
 function [pts] = poissonDisc(sizeI,spacing,nPts,showIter)
-% 
-% Purpose:
+% FUNCTION POISSONDISC(sizeI, spacing, nPts, showIter)
+%  
 % N-dimensional poisson disc sampling function. This can also be used to
 % randomly sample k pts from N-dimensional space with a minimum separation
 % distance.
@@ -40,6 +40,8 @@ function [pts] = poissonDisc(sizeI,spacing,nPts,showIter)
 % pts = poissonDisc(sizeI,nPts,spacing,showIter);
 
 % Mohak Patel, Brown University, 2016
+
+
 
 %%%%%%% Initial parameters setup
 % Parsing inputs and setting default values
