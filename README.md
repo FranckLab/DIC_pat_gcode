@@ -1,6 +1,6 @@
 # DIC_pat_gcode:  
-To generate G-code scripts as input to control motions of a 3D printer to print speckle patterns.
- 
+To generate G-code scripts that acts as input for a 3d printer to print designed speckle patterns.
+
  
 ## Prerequisites & Installation
 DIC_pat_gcode was tested on MATLAB versions later than R2018a. 
