@@ -6,6 +6,8 @@ To generate G-code scripts that acts as input for a 3d printer to print designed
 ## Prerequisites & Installation
 DIC_pat_gcode was tested on MATLAB versions later than R2018a. 
 
+## Manual
+https://www.researchgate.net/publication/350852776_Smart_Digital_Image_Correlation_Patterns_via_3D_Printing_DIC_pat_gcode_Code_Manual
  
 ## Citation
 If used please cite
