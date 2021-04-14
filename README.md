@@ -30,3 +30,10 @@ Welcome to give us ratings and make comments at MATLAB File Exchange community:
 [![View DIC_pat_gcode: Generate G-code files to control a 3D printer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/90431-dic_pat_gcode-generate-g-code-files-to-control-a-3d-printer)
 
 
+
+##
+
+ 
+<p align="center">
+  <img width="538" height="301" src="https://github.com/FranckLab/ALDVC/blob/master/aldvc_logo.png">
+</p>
