@@ -35,5 +35,5 @@ Welcome to give us ratings and make comments at MATLAB File Exchange community:
 
  
 <p align="center">
-  <img width="538" height="301" src="https://github.com/FranckLab/ALDVC/blob/master/aldvc_logo.png">
+  <img width="578" height="200" src="https://github.com/FranckLab/DIC_pat_gcode/blob/master/DIC_pat_gcode_logo.png">
 </p>
