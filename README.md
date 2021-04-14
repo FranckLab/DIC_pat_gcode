@@ -1,4 +1,4 @@
-# DIC_pat_gcode
+# DIC_pat_gcode: Generate G-code files to control a 3D printer
 To generate G-code scripts as input to control motions of a 3D printer to print speckle patterns.
  
  
